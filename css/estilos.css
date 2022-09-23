@@ -1,0 +1,30 @@
+div{
+
+    width: 100%;
+    background-color: rgb(228, 150, 47);
+    border: 1px solid black;
+
+    margin: 0.5rem;
+    padding: 0.5rem;
+    gap: 1rem;
+}
+
+.row div{
+
+    margin: 0.5rem;
+    padding: 0.5rem;
+   
+}
+.container{
+    margin: 0.5rem;
+    padding: 0.5rem;
+   
+}
+
+
+.row .div3 div{
+
+    margin-right: 1rem;
+
+}
+
